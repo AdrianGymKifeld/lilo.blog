@@ -9,3 +9,7 @@ description = "Die Schlacht in Bachmut spitzt sich zu. Gemäss übereinstimmende
 footnotes = "BlaBla"
 +++
 Dazu muss man zunächst die Struktur Bachmuts kennen. Die Stadt wird durch den Fluss Bachmutka in einen Ost- und Westteil geteilt. Die ukrainischen Streitkräfte haben sich jetzt hinter den Fluss zurückgezogen. Er dient ihnen als Verteidigungslinie, ist sozusagen eine natürliche Barriere. Es gibt auch Berichte, wonach einige Brücken gesprengt wurden. So will die Ukraine die Überquerung des Flusses durch russische Truppen erschweren.
+
+
+
+> dfdfdfdfdfdfdfdfd
